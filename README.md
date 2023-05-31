@@ -5,10 +5,7 @@ Components:
 
 Extra settings:  
 `eslint` + `cssnano`(css compression) + `prettier` + `prettier-plugin-tailwindcss`
-## Demo
-See [demo](https://nextjs-tailwinds-mui-template.vercel.app/) here.  
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/import?s=https%3A%2F%2Fgithub.com%2Fcrimson-gao%2Fnextjs-tailwinds-mui-template)  
 ## Getting Started
 
 First, run the development server:
@@ -35,9 +32,3 @@ To learn more about Next.js, take a look at the following resources:
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
 You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
